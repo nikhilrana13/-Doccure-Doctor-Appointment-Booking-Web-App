@@ -80,6 +80,9 @@ Chat feature between doctor and patient
 Ratings & Reviews system for doctors
 
 Admin dashboard to manage users and reports
+
+
 Project live link :[https://doccure-doctor-appointment-booking-web-3a4g.onrender.com]
+
 🧑‍💻 Made with ❤️ by Nikhil Rana
 
